@@ -30,7 +30,7 @@ class Store extends React.Component{
             });
         } else {
             this.setState({
-                products // دى الداتا اللى عاملنلها import
+                products 
             });
         }
     }
@@ -45,7 +45,7 @@ class Store extends React.Component{
 
     
     render(){
-        const { cartProuduct } = this.state;  // :D :D :D
+        const { cartProuduct } = this.state; 
         return(
             <div>
                 <header>

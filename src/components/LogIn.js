@@ -18,7 +18,7 @@ class LogIn extends React.Component{
         console.log(this.state);
 
         if(this.state.email != "" && this.state.password != ""){
-            this.props.history.push("/Store");
+            this.props.history.push("/store");
         }
     }
 

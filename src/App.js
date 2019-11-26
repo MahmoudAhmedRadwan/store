@@ -9,9 +9,9 @@ import Cart from './components/Cart';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/store/">
       <div className="App">
-          <Route exact path='/' component={LogIn} />      
+          <Route exact path='/' component={LogIn} />
           <Route path='/store' component={Store} />
           <Route path='/cart' component={Cart} />
       </div>
