@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f47271fc.chunk.css",
+    "main.js": "/static/js/main.a4cff8c0.chunk.js",
+    "main.js.map": "/static/js/main.a4cff8c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a4dad58.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a4dad58.js.map",
+    "static/css/2.b883d912.chunk.css": "/static/css/2.b883d912.chunk.css",
+    "static/js/2.6ede0c4d.chunk.js": "/static/js/2.6ede0c4d.chunk.js",
+    "static/js/2.6ede0c4d.chunk.js.map": "/static/js/2.6ede0c4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.26beaf39108492e22ec2bd780b5acd5d.js": "/precache-manifest.26beaf39108492e22ec2bd780b5acd5d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b883d912.chunk.css.map": "/static/css/2.b883d912.chunk.css.map",
+    "static/css/main.f47271fc.chunk.css.map": "/static/css/main.f47271fc.chunk.css.map",
+    "static/media/App.css": "/static/media/lam.eca3a33a.jpg",
+    "static/media/bmw.jpg": "/static/media/bmw.a6610109.jpg",
+    "static/media/fiat2019.jpg": "/static/media/fiat2019.f1d02c71.jpg",
+    "static/media/fiat2020.jpg": "/static/media/fiat2020.e47f350c.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/kia2018.jpg": "/static/media/kia2018.de4b50f8.jpg",
+    "static/media/kia2019.jpg": "/static/media/kia2019.b2700d30.jpg",
+    "static/media/kia2020.jpg": "/static/media/kia2020.50f624d2.jpg",
+    "static/media/mercedes2019.jpg": "/static/media/mercedes2019.c7959f64.jpg",
+    "static/media/mercedes2020.jpg": "/static/media/mercedes2020.463eab11.jpg",
+    "static/media/toyota2018.jpg": "/static/media/toyota2018.ae9698f6.jpg",
+    "static/media/toyota2019.jpg": "/static/media/toyota2019.fac2bffe.jpg",
+    "static/media/toyota2020.jpg": "/static/media/toyota2020.027f940c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a4dad58.js",
+    "static/css/2.b883d912.chunk.css",
+    "static/js/2.6ede0c4d.chunk.js",
+    "static/css/main.f47271fc.chunk.css",
+    "static/js/main.a4cff8c0.chunk.js"
+  ]
+}
